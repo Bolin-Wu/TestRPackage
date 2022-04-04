@@ -13,6 +13,6 @@
 #   Check Package:             'Ctrl + Shift + E'
 #   Test Package:              'Ctrl + Shift + T'
 
-hello3 <- function(x) {
+power_num <- function(x) {
   x^2
 }
