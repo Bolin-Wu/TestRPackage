@@ -1,7 +1,7 @@
 Package: TestRPackage
 Type: Package
 Title: What the Package Does (Title Case)
-Version: 0.1.0
+Version: 0.2.0
 Author: Bolin Wu
 Maintainer: The package maintainer <bolin.wu@gmail.com>
 Description: More about what it does (maybe more than one line)
@@ -10,3 +10,8 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Imports: 
+    dplyr

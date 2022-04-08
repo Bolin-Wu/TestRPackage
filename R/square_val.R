@@ -5,6 +5,8 @@
 #' @return a numebr
 #' @export
 #'
+#' @import dplyr
+#'
 #' @examples
 #' square_val(2)
 square_val <- function(x) {
