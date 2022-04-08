@@ -2,7 +2,7 @@
 % Please edit documentation in R/square_val.R
 \name{square_val}
 \alias{square_val}
-\title{Title}
+\title{Take a numeric value and square it}
 \usage{
 square_val(x)
 }
@@ -13,7 +13,7 @@ square_val(x)
 a numebr
 }
 \description{
-Title
+It takes a numeric value, and squares it.
 }
 \examples{
 square_val(2)
